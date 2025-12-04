@@ -7,6 +7,11 @@ A guide for installing Docker 4.15+ and the latest Dify on macOS 10.15.7.
 你只需要从头到尾复制命令执行即可，不需要思考中间的逻辑。（直连模式+本地部署方案）
 成功复活老macos系统运行 Dify AI 知识库，解决官方的标准安装步骤在旧款 Mac macOS上会失败。
 
+<img width="1382" height="1368" alt="截屏2025-12-02 上午7 04 31" src="https://github.com/user-attachments/assets/5973795c-3272-4ee6-bb7f-9dddfc7e52d7" />
+<img width="1382" height="1368" alt="截屏2025-12-02 上午7 04 38" src="https://github.com/user-attachments/assets/441f05a7-c1e1-4c9a-828d-676b35c62ddc" />
+<img width="972" height="1172" alt="截屏2025-12-02 上午7 04 52" src="https://github.com/user-attachments/assets/451f22cf-b35a-4668-ab54-dec943abcd57" />
+<img width="2266" height="1275" alt="截屏2025-12-02 上午7 05 12" src="https://github.com/user-attachments/assets/772ef9f3-bc0b-4c84-853e-aea1d5ba32b0" />
+
 
 
 ✅ 核心前提
